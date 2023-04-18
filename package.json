@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "app that fetch info from movie api",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william david willicali40@hotmail.com",
+  "license": "MIT"
+}
